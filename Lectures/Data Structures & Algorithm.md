@@ -15,5 +15,6 @@ Time: 14:04
 ## 17-07-2024 14:06 [[Data Structures & Algorithm Lecture 1]]
 ## 19-07-2024 09:23 [[Data Structures & Algorithm Lecture 2]]
 ## 20-07-2024 13:12 [[Data Structures & Algorithm Lab 1]]
+## 24-07-2024 14:06 [[Data Structures & Algorithm Lecture 3]]
 
 # References

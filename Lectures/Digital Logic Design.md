@@ -28,4 +28,5 @@ TEE marks : 50
 ### - 18-07-2024 08:43 [[Digital Logic Design Lecture 2]]
 ### - 23-07-2024 08:17 [[Digital Logic Design Lab 2]]
 ### - 23-07-2024 13:09 [[Digital Logic Design Lecture 3]]
+### - 25-07-2024 08:32 [[Digital Logic Design Lecture 4]]
 # References
